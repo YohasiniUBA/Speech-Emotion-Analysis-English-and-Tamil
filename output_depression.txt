@@ -1,0 +1,30 @@
+Text: hi I am Rupa I feel so for more than one because of that I cannot do my daily sometimes I feel and muscle tension I cannot get for more sometimes I wake up ear in even if I go to sleep ear photo Badi earlier but I feel sleepy only because of this sometimes I get and I am not able to focus on my official so I think I am I get fear of losing my job which makes me more worry and I am not interested even in taking care of my Des and eating also I am not interested and taking my favourite food also in moving in watching and also the going out with my family and friends also reduce you know the activities which are more pleasurable in the past also accountable to do with that much happiness I am not interested in doing that even in sexual activities I am not this makes me to feel more gu so I feel something is worthless you know and because of feeling more tired I can't able to do my daily activities so my family members are taking more burden so I feel I am the burden to them because They supposed to do the activities what I have to do if I die really it will be really it would be happy to the memo because at least in that in that way the burden are looking after me will be really feel hopeless and helpless so like this nowadays I am getting frequently this negative really it make me it makes me to worry and also get more fear about it about my health what my a mental relay I feel very few about it that's why I came to you 
+
+fear: 0.865024328
+sadness: 0.093253009
+grief: 0.015902260
+nervousness: 0.008034536
+caring: 0.005129955
+love: 0.004428696
+disappointment: 0.002103996
+disgust: 0.001225138
+joy: 0.000763506
+desire: 0.000649038
+anger: 0.000613470
+remorse: 0.000594258
+amusement: 0.000521708
+relief: 0.000215488
+disapproval: 0.000212281
+realization: 0.000209666
+neutral: 0.000159620
+annoyance: 0.000143966
+embarrassment: 0.000117447
+confusion: 0.000108669
+pride: 0.000103218
+optimism: 0.000093897
+excitement: 0.000085172
+gratitude: 0.000082945
+surprise: 0.000079900
+approval: 0.000060595
+admiration: 0.000046822
+curiosity: 0.000036512

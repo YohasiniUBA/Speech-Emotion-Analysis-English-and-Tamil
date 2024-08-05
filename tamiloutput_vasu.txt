@@ -1,0 +1,35 @@
+Tamil Text:
+ஒவ்வொரு நாளும் நான் சோகமாகவே உணர்கிறேன் எவ்வளவோ முயற்சி செய்தும் என்னால் அந்த சோகத்தில் இருந்து வெளிவர முடியவில்லை ஒரு கனமான சுமையாகவே என்னை எப்பொழுதும் உணருகிறேன் என்னால் இதிலிருந்து தப்பிக்க முடியவில்லை கடைசியாக நான் எதைப் பற்றி சிந்திக்காமல் உண்மையாகவே மகிழ்ச்சியாக அல்லது உற்சாகமாக உணர்ந்ததை என்னால் நினைவில் கொள்ள விரும்பவில்லை பெரும்பாலான நாட்களில் என்னால் படுக்கையிலிருந்து எழும்ப முடியவில்லை எதற்காக வாழ்கிறோம் என்று சிந்திக்கத் தோன்றுகின்றது எப்பொழுதும் வெறுமையாகவும் தொலைந்தது ஆகவும் உணர்க 
+
+English Translation:
+Every day I feel sad I can not get out of that tragedy. I always feel a heavy burden.I don't want to remember what I was really happy or excited without thinking about what the last time I could get out of bedIt seems to think about what we live and always feel empty and lost
+
+Emotion Analysis:
+sadness: 0.7712
+joy: 0.1324
+love: 0.0252
+disappointment: 0.0166
+realization: 0.0120
+grief: 0.0114
+amusement: 0.0088
+caring: 0.0056
+nervousness: 0.0026
+neutral: 0.0025
+annoyance: 0.0017
+fear: 0.0014
+desire: 0.0014
+excitement: 0.0011
+approval: 0.0010
+anger: 0.0010
+surprise: 0.0007
+remorse: 0.0007
+admiration: 0.0005
+pride: 0.0004
+disgust: 0.0004
+curiosity: 0.0004
+relief: 0.0003
+optimism: 0.0003
+gratitude: 0.0002
+confusion: 0.0002
+embarrassment: 0.0001
+disapproval: 0.0001

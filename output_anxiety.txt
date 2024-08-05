@@ -1,0 +1,30 @@
+Text: hi I am he actually I feel more nervous that's why I comfort to get your nowadays for the past 5 months really I am excessively bring about even was a small matters you know and also because of that you know I avoid even driving nowadays the fear that something happened to us by accident something may happen so that fear I get and annually I am getting that and even even if anyone raise the voice really become really a man should you know I am little bit nervous nowadays for the past five months really my sleep to get versioning I am not have a good proper sound sleep even I get even for the small sounds you know I get irritated I think the sensitivity has increased I can feel the perception more of the sound even for little sound I get irritated and on sometimes on hearing sudden sound also I get started the sucking only for the past 5 months I don't know why I am getting such a fear of each and everything everything I am getting fear for each and everything for any event supposed to be happen for each and everything I get a fear you know and most of the time I feel giddiness and also palpitation I have my heart it is are increased you know and sometime I have like terms of hands like shaking and splitting of palms and foot and also sometimes like I feel tingling sensation on the feet of butterflies from the abdominal these things I get only for the past five months and also sometimes I feel chest discomfort like a breath so these are very new to me and I am getting more nervous get more fear that something may happen to me some illness may happen to me or I need dear sorry I may die because of the fear I mean I mean because of the fear of my physical element and because I am me to experience the same thing but my father died because of that and we came to know later that because of cancer abdominal pain I am getting fear of that about the death either myself will be decreased me to make it the cancer so the fear of death note that I get the past 5 months fear of death really help me to overcome from it thank 
+
+fear: 0.738037109
+nervousness: 0.112393230
+gratitude: 0.059434868
+sadness: 0.036326159
+grief: 0.018807624
+caring: 0.009601577
+relief: 0.004835137
+disappointment: 0.003625151
+anger: 0.002595998
+remorse: 0.002511127
+love: 0.002346913
+confusion: 0.002105877
+annoyance: 0.001465682
+realization: 0.001039000
+pride: 0.000985771
+desire: 0.000752952
+disgust: 0.000539416
+excitement: 0.000393899
+embarrassment: 0.000349619
+joy: 0.000333734
+amusement: 0.000311007
+disapproval: 0.000266473
+optimism: 0.000220988
+curiosity: 0.000213008
+surprise: 0.000191625
+approval: 0.000170804
+neutral: 0.000086210
+admiration: 0.000059090

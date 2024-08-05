@@ -1,0 +1,6 @@
+transformers==4.10.3
+nltk==3.6.5
+SpeechRecognition==3.8.1
+pydub==0.25.1
+tensorflow==2.7.0
+torch==1.10.0  # Replace with the latest version of PyTorch

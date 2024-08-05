@@ -1,0 +1,5 @@
+Unique predicted emotions with mean scores:
+Emotion: sad, Mean Score: 0.8487565053833855
+Emotion: hap, Mean Score: 0.07458146288990974
+Emotion: neu, Mean Score: 0.07480183683542742
+Emotion: ang, Mean Score: 0.0018601994015625678
